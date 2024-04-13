@@ -14,11 +14,6 @@ change the name of the jar file to the minecraft server version to "server.jar"
  create a txt file called eula by using this commend "touch eula.txt"
 
  type "eula-true" in the eula.txt file
-type nono eula.txt snd type "eula-true" again
-
-next type ctrl +x then ctrl+y and enter to close the editor 
-
-type apt install "openjdk-jdk-17" to install java 
 
 type "java -Xmx1G -Xms1G -jar server.jar nogui" to start the server and download the files you can change 1g or 8 or 16 if you want or any number 
 
