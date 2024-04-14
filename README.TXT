@@ -1,4 +1,4 @@
-DO NOT ADD "  IN any of the COMMANDS PLEASE IT WILL NOT WORK 
+ķDO NOT ADD "  IN any of the COMMANDS PLEASE IT WILL NOT WORK 
 
 :)
 
@@ -13,7 +13,7 @@ change the name of the jar file to the minecraft server version to "server.jar"
  
  create a txt file called eula by using this commend "touch eula.txt"
 
- type "eula-true" in the eula.txt file
+ type "eula=true" in the eula.txt file
 
 type "java -Xmx1G -Xms1G -jar server.jar nogui" to start the server and download the files you can change 1g or 8 or 16 if you want or any number 
 
