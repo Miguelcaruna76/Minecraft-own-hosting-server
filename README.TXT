@@ -1,11 +1,11 @@
-ķDO NOT ADD "  IN any of the COMMANDS PLEASE IT WILL NOT WORK 
+DO NOT ADD "  IN any of the COMMANDS PLEASE IT WILL NOT WORK 
 
 :)
 
 to start type "sudo su"
 
 download the minecraft server version you want your server to be on this to Webpages 
-Forge "https://files.minecraftforge.net/net/minecraftforge/forge/"
+Forge "https://www.dropbox.com/scl/fo/2n8mdtr5o7lwtz7xd922i/ABoRevPjYlwvh47-vfEEvJE?rlkey=w30um4mo6cl91b0eypaierrhi&dl=0"
 
 PaperMC "https://papermc.io/downloads/paper"
 
